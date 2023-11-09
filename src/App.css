@@ -1,0 +1,12 @@
+* {
+  background-color: #1f0c37;
+  color: white;
+  font-family: "Poppins-SemiBold", Helvetica;
+
+}
+
+a:hover, a:visited, a:link, a:active {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 18px;
+}
